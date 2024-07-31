@@ -1,0 +1,49 @@
+//+ Name: Picked Bass YR
+//+ Date: 2019-09-30
+//+ URL: http://freepats.zenvoid.org/ElectricGuitar/clean-electric-bass.html#BassYR
+
+<group>
+ampeg_decay=0.5
+ampeg_release=0.3
+
+<region>
+ lokey=26 hikey=28
+ pitch_keycenter=28
+ sample=samples/pick/E.flac
+<region>
+ key=29
+ sample=samples/pick/F.flac
+<region>
+ key=30
+ sample=samples/pick/F#.flac
+<region>
+ key=31
+ sample=samples/pick/G.flac
+<region>
+ key=32
+ sample=samples/pick/G#.flac
+<region>
+ key=33
+ sample=samples/pick/A.flac
+<region>
+ key=34
+ sample=samples/pick/A#.flac
+<region>
+ key=35
+ sample=samples/pick/B.flac
+<region>
+ key=36
+ sample=samples/pick/C.flac
+<region>
+ key=37
+ sample=samples/pick/C#.flac
+<region>
+ key=38
+ sample=samples/pick/D.flac
+<region>
+ key=39
+ sample=samples/pick/D#.flac
+<region>
+ lokey=40 hikey=46
+ pitch_keycenter=40
+ sample=samples/pick/E2.flac
